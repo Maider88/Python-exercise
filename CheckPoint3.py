@@ -26,8 +26,8 @@ number_two = number + 10
 print(number_two)
 
 #5
-sentence = "Las ovejas son muy bonitas"
-last_element = sentence[-1]
+list_two =  ["Laila", "Jordan", "Leila"]
+last_element = list_two[-1]
 print(last_element)
 
 #6
