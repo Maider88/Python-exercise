@@ -17,18 +17,18 @@ print(new_sentence)
 
 #3
 sentence = "Las ovejas son muy bonitas"
-print(sentence[:3])
+first_element = sentence[0]
+print(first_element)
 
 #4
-meal_completed = True
-sub_total = 100  
-tip = 10  
-total = sub_total + tip
-print(total)
+number = 20
+number_two = number + 10
+print(number_two)
 
 #5
 sentence = "Las ovejas son muy bonitas"
-print(sentence[-7:])
+last_element = sentence[-1]
+print(last_element)
 
 #6
 names = "Harry,Alex,Susie,Jared,Gail,Conner"
