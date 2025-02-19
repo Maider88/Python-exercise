@@ -16,10 +16,10 @@ new_sentence = first_word
 print(new_sentence)
 
 #3
-sentence = "Las ovejas son muy bonitas"
-first_element = sentence[0]
+list = [1, 2, 3, 4, 5]
+first_element = list[0]
 print(first_element)
-
+      
 #4
 number = 20
 number_two = number + 10
